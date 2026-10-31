@@ -1,0 +1,6 @@
+{
+  "name": "MeetFlow AI",
+  "description": "AI-Powered Meeting-to-Action and Accountability Tracker with evidence linking, dependency mapping, and human approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
